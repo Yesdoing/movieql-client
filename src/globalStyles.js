@@ -2,7 +2,7 @@ import { createGlobalStyle } from "styled-components";
 
 
 createGlobalStyle`
-    @import url('https://fonts.googleapis.com/css?family=Maven+Pro');
+    @import url('https://fonts.googleapis.com/css?family=Maven+Pro:400,500');
 
     body {
         all: unset;
